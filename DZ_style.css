@@ -1,0 +1,36 @@
+.div{
+  color: #000000;
+  face: "Andale Mono";
+  border: 1px solid gray;
+  background: #FFFFFF;
+  border-radius: 25px;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  margin: 0 45em;
+}
+
+.button_1{ /* Кнопка НАЗАД */
+  background: #0000FF; 
+  color: white;
+  font-size: 13pt;
+  outline: 1px royalblue;
+  border-radius: 5px;
+  border-color: #0000FF;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 12px;
+  padding-left: 12px;
+}
+
+.button_2{ /* Кнопка ПРОДОЛЖИТЬ */
+  background: #DCDCDC; 
+  color: black;
+  font-size: 13pt;
+  outline: 1px #DCDCDC;
+  border-radius: 5px;
+  border-color: #DCDCDC;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 12px;
+  padding-left: 12px;s
+}
